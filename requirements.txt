@@ -4,3 +4,5 @@ nltk==3.7
 numpy==1.22.3
 scikit_learn==1.0.2
 uvicorn
+uvloop
+httptools
