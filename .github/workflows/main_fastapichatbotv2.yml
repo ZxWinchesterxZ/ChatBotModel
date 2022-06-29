@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FastApiChatBotv2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_61E7EDC92D0A45428265486AC924AC4C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8378E9B869FF45F6A52AE5D86B3FAB86 }}
